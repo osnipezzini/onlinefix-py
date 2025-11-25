@@ -1,0 +1,39 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extension files
+*.so
+
+# Distribution / packaging
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+.pip-wheel-metadata
+~$*
+
+# Logs
+*.log
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nosetests.xml
+*.cover
+*.py,[c|o]
+.coverage
+.cache
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# venv
+venv/
+
+# IDE files
+.idea/
+.vscode/
